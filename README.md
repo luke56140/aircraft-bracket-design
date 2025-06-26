@@ -2,7 +2,7 @@
 
 **Course:** MECHENG 334 – Design and Manufacture 3 <br> 
 **Institution:** University of Auckland <br> 
-**Date:** 2022 – 2025
+**Date:** May-June 2025
 
 <h2>Project Summary</h2>
 This 2 person project involved the design of a polycarbonate two-dimensional bracket for use as an important structural element in a lightweight aircraft. It was designed to have a specific stiffness under compressive and tensile loading conditions while minimising mass. Finite Element Analysis on ANSYS software was used to design and analyse the geometry of the bracket to accurately simulate how the bracket will perform under different load cases. The bracket was then machined using a CNC mill after which it was tested for stiffness and failure.
