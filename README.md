@@ -36,11 +36,11 @@ This 2 person project involved the design of a polycarbonate two-dimensional bra
 
 <p align="center">
 Aircraft Bracket Engineering Drawing: <br/>
-<img src="https://i.imgur.com/62EF45q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/62EF45q.png" height="80%" width="80%" alt="Aircraft Bracket Design"/>
 <br />
 <br />
 ANSYS Stress Contour Plots (tension on the left, compression on the right): <br/>
-<img src="https://i.imgur.com/51gD7cI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/51gD7cI.png" height="80%" width="80%" alt="Aircraft Bracket Design"/>
 <br />
 <br />
 
