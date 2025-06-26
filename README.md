@@ -1,5 +1,9 @@
 <h1>Aircraft Bracket For Load Bearing Assembly</h1>
 
+**Course:** MECHENG 334 – Design and Manufacture 3 <br> 
+**Institution:** University of Auckland <br> 
+**Date:** 2022 – 2025
+
 <h2>Project Summary</h2>
 This 2 person project involved the design of a polycarbonate two-dimensional bracket for use as an important structural element in a lightweight aircraft. It was designed to have a specific stiffness under compressive and tensile loading conditions while minimising mass. Finite Element Analysis on ANSYS software was used to design and analyse the geometry of the bracket to accurately simulate how the bracket will perform under different load cases. The bracket was then machined using a CNC mill after which it was tested for stiffness and failure.
 <br />
@@ -7,13 +11,13 @@ This 2 person project involved the design of a polycarbonate two-dimensional bra
 
 <h2>Key contributions:</h2>
 
-- <b>Initial Design:   5 Initial bracket designs using Autodesk inventor to explore topologies.</b>
-- <b>FEA Calibration:   Calibration against physical test results of a 2016 bracket.</b>
-- <b>Concept selection:   Concept selection based on stiffness, weight, and potential for optimization.</b>
-- <b>ANSYS Optimization Software:   First stage of Optimization using ANSYS optimization software.</b>
-- <b>Manual Optimization:   Second stage of Optimization though analysis of stress plots too manually remove material.</b>
-- <b>Performance Analysis:   predictions of stiffness using FEA and hand calculations.</b>
-- <b>Tool Pathing:   CNC milling tool pathing done in Autodesk inventor.</b>
+- **Initial Design:** 5 initial bracket designs using Autodesk Inventor to explore topologies.  
+- **FEA Calibration:** Calibration against physical-test results of a 2016 bracket.  
+- **Concept Selection:** Selection based on stiffness, weight, and optimisation potential.  
+- **ANSYS Optimisation Software:** First optimisation stage using ANSYS tools.  
+- **Manual Optimisation:** Second stage—remove material manually after stress-plot review.  
+- **Performance Analysis:** Stiffness predictions via FEA and hand calculations.  
+- **Tool Pathing:** CNC-milling tool paths created in Autodesk Inventor.
 
 <h2> Skills and Tools Used </h2>
 
