@@ -16,18 +16,19 @@ This 2 person project involved the design of a polycarbonate two-dimensional bra
 - <b>Tool Pathing:   CNC milling tool pathing done in Autodesk inventor.</b>
 
 <h2> Skills and Tools Used </h2>
+
 - <b>Topology Design</b> 
 - <b>CAD: Auto Desk Inventor</b> 
 - <b>CAM: Auto Desk Inventor</b> 
 - <b>FEA: ANSYS</b> 
 - <b>Technical Documentation & Team Collaboration</b> 
 
-<h2>Outcome</h2>
+<h2>Outcomes</h2>
 
-- <b></b>
-- <b></b>
-- <b></b>
-- <b></b>
+- <b>Final bracket weight of 122g</b>
+- <b>Compressive stiffness (4.1KN) did not match the objective stiffness (4KN)</b>
+- <b>Tensile stiffness (3.7KN) did not match the objective stiffness (3KN)</b>
+- <b>Design performance mark was in the top 30% of the cohort.</b>
 
 <p align="center">
 Aircraft Bracket Engineering Drawing: <br/>
